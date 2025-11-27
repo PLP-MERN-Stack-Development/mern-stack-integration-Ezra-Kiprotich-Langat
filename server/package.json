@@ -1,0 +1,30 @@
+{
+  "name": "mern-stack-integration-ezra-kiprotich-langat",
+  "version": "1.0.0",
+  "description": "This assignment focuses on building a full-stack MERN (MongoDB, Express.js, React.js, Node.js) application that demonstrates seamless integration between front-end and back-end components.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PLP-MERN-Stack-Development/mern-stack-integration-Ezra-Kiprotich-Langat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PLP-MERN-Stack-Development/mern-stack-integration-Ezra-Kiprotich-Langat/issues"
+  },
+  "homepage": "https://github.com/PLP-MERN-Stack-Development/mern-stack-integration-Ezra-Kiprotich-Langat#readme",
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "express-validator": "^7.3.1",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^9.0.0",
+    "multer": "^2.0.2"
+  }
+}
